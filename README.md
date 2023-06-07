@@ -8,7 +8,7 @@ Navegue até o diretório onde você deseja clonar o repositório.
 Execute o seguinte comando para clonar o repositório:
  git clone https://github.com/VitorRT/agroconenct-rest-api.git
 
-- Rodar
+- Para Rodar,
 Rode o arquivo "Application.java" que esta no pacote src.main.java.br.com.smashcode.api.agroconnect
 
 - Ou tenha acesso a API na nuvem com o link:
