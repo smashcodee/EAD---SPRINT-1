@@ -1,4 +1,4 @@
-## Assista ao vídeo explicativo do projeto: [📺 YouTube](https://www.youtube.com/watch?v=RDOAcKtC-go)
+## Assista ao vídeo explicativo do projeto: [📺 YouTube](https://www.youtube.com/watch?v=i1I-qFuWFyM)
 
 -- Procedimento para instalação da e execução da API
 
