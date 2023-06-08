@@ -5,7 +5,7 @@
 ## RM93380 - VINICIUS SEIJI YOKATA
 ## RM94667 - FELIPE BUENO FREITAS DE SOUZA
 
-## Assista ao vídeo explicativo do projeto: [📺 YouTube](https://www.youtube.com/watch?v=i1I-qFuWFyM)
+## Assista ao vídeo explicativo do projeto: [📺 YouTube](https://www.youtube.com/watch?v=yxZdK-2c9pQ)
 
 -- Procedimento para instalação da e execução da API
 
