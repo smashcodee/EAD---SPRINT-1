@@ -1,3 +1,9 @@
+## SMASHCODE - INTEGRANTES
+RM95189 - PEDRO LUIZ SANTIAGO SANTANA
+RM95209 - VICTOR SOUZA BARBERINO
+RM93610 - BRUNO DA SILVA CARDOSO
+RM93380 - VINICIUS SEIJI YOKATA
+
 ## Assista ao vídeo explicativo do projeto: [📺 YouTube](https://www.youtube.com/watch?v=i1I-qFuWFyM)
 
 -- Procedimento para instalação da e execução da API
